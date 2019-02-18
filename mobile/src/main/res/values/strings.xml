@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">NotifyMe</string>
+    <string name="service_name">Notify me message</string>
+</resources>

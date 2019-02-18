@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="setmode">设置振动模式</string>
+    <string name="mode0">关闭振动</string>
+    <string name="mode1">振动模式1</string>
+    <string name="mode2">振动模式2</string>
+    <string name="mode3">振动模式3</string>
+    <string name="mode4">振动模式4</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+</resources>
